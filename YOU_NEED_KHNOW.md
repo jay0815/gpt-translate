@@ -1,0 +1,2 @@
+[If you're having trouble using it in your project, please read this.](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
+[how to use ts node with esm in nodejs](https://github.com/TypeStrong/ts-node/issues/1007)
